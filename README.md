@@ -1,5 +1,5 @@
 # Max Coin
-## _Cadena Dev Blockchain 101 certification project_
+## _Cadena Dev Ethereum 101 certification project_
 
 This project is created as first experience with Solidity.
 It implements ERC20 contract to simulate a simple coin.
